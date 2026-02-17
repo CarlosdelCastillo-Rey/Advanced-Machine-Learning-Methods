@@ -5,7 +5,7 @@
 - **Carlos Fernando Del Castillo Rey** — A01796595  
 - **Uriel Derrant Soriano** — A01373541  
 - **Julio Miguel Díaz de León García** — A01796215  
-- **Luis Ángel Díaz Rebollo**
+- **Luis Ángel Díaz Rebollo**  — A01365832 
 
 
 ## Activities Overview
@@ -135,9 +135,6 @@ This activity demonstrates how learned representations from large datasets can b
 
 ---
 
- — A01365832  
-
----
 
 ## Conclusion
 
